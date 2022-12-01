@@ -6,10 +6,8 @@ tags: [hello,world,github]
 ---
 
 # Welcome
-Hello! Welcome to the NabVerse!
+Hello! Welcome to the NabVerse, my "universe"! Happy to have you here with me and I hope you'll enjoy the ride.
 
 ```javascript
-console.log("Hello World!");
+console.log("See you soon!");
 ```
-
-Goodbye!
