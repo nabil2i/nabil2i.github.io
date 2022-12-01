@@ -19,9 +19,10 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Nabil                          # the main title
+title: Nabil Affo                          # the main title
 
-tagline: Welcome to the NabVerse   # it will display as the sub-title
+tagline: Salam! Welcome to the NabVerse! I'm Nabil, a Telecoms & Software Engineer. I like art, poetry. I'm an author, a writer, a content creator
+  and most importantly a seeker of beneficial knowledge.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Salam! Welcome to my "universe"! I'm Nabil, a Telecoms & Software Engineer. I like art, poetry. I'm an author, a writer, a content creator
