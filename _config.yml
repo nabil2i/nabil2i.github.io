@@ -38,15 +38,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Nabil A.
+  name: Nabil Affo
   email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/thenabverse      # change to your twitter homepage
     - https://github.com/nabil2i       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://medium.com/@nabilwrites
+    - https://www.linkedin.com/in/thenabverse
 
 google_site_verification:               # fill in to your verification string
 
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/nabil.jpg # https://pbs.twimg.com/profile_images/1588842261156184065/zVMujEnG_400x400.jpg
+avatar: https://pbs.twimg.com/profile_images/1588842261156184065/zVMujEnG_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
