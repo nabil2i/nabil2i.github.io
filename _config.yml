@@ -21,19 +21,22 @@ timezone:
 
 title: Nabil Affo                          # the main title
 
-tagline: Salam! I'm Nabil, a Telecoms & Software Engineer.
+tagline: Salam! I'm Nabil, a Software & Telecoms Engineer.
 description: >-                        # used by seo meta and the atom feed
-  Salam! Welcome to my "universe"! I'm Nabil, a Telecoms & Software Engineer. I like art, poetry. I'm an author, a writer, a content creator
-  and most importantly a seeker of beneficial knowledge.
+  Salam! Welcome to my "universe"! I'm Nabil, a Software & Telecoms Engineer. I like art, poetry. I'm an author, a writer, a content creator
+  and most importantly I'm a seeker of beneficial knowledge.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://nabil2i.github.io/'
 
+linkedin:
+  username: '@nabilaffo'
+
 github:
   username: nabil2i             # change to your github username
-
+            # change to your twitter username
 twitter:
-  username: thenabverse            # change to your twitter username
+  username: thenabverse
 
 social:
   # Change to your full name.
@@ -42,10 +45,11 @@ social:
   email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/nabilaffo/
     - https://twitter.com/thenabverse      # change to your twitter homepage
     - https://github.com/nabil2i       # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.linkedin.com/in/thenabverse/
+    
     - https://medium.com/@nabilwrites
 
 google_site_verification:               # fill in to your verification string
@@ -81,7 +85,8 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/nabil.jpg 
+avatar: https://pbs.twimg.com/profile_images/1588842261156184065/zVMujEnG_400x400.jpg
+# /assets/nabil.jpg 
 #https://pbs.twimg.com/profile_images/1588842261156184065/zVMujEnG_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
