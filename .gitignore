@@ -11,7 +11,11 @@
 
 # bundler cache
 _site
-vendor
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
 
 # rubygem
 *.gem
