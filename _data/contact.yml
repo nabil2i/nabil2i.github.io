@@ -14,6 +14,10 @@
 #   icon: 'fas fa-envelope'
 #   noblank: true            # open link in current tab
 -
+  type: youtube
+  icon: 'fab fa-youtube'
+  url: 'https://www.youtube.com/channel/UCS3zec7wPv8g5EbxTTNoFJQ?sub_confirmation=1'
+-
   type: rss
   icon: 'fas fa-rss'
   noblank: true
