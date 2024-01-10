@@ -4,9 +4,9 @@ icon: fas fa-diagram-project
 order: 2
 ---
 
-* **Issue-Tracker:** Next.js fullstack web application for tracking issues - [Project Repository](https://github.com/nabil2i/issue-tracker). It deployed at [https://issue-tracker-ten-nu.vercel.app/](https://issue-tracker-ten-nu.vercel.app/)
+* **Issue-Tracker:** Next.js fullstack web application for tracking issues - [Project Repository](https://github.com/nabil2i/issue-tracker). It is deployed at [https://issue-tracker-ten-nu.vercel.app/](https://issue-tracker-ten-nu.vercel.app/)
 
-* **RecordPlus:** Django backend application to host and retrieve videos recorded by a chrome screen recorder extension. - [Project Repository](https://github.com/nabil2i/recordplus)
+* **RecordPlus:** Django backend application to host and retrieve videos recorded by a chrome screen recorder extension. - [Project Repository](https://github.com/nabil2i/recordplus) - [Project Repository with auth system](https://github.com/nabil2i/record-plus)
 
 * **HNGXFLIX:** React movie discovery web application that allows users to search for movies, view details about them, and save their favorite movies.  - [Project Repository](https://github.com/nabil2i/hngxflix)
 
