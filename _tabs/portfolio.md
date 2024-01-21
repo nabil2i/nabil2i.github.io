@@ -4,7 +4,7 @@ icon: fas fa-diagram-project
 order: 2
 ---
 
-- **NC Blog:** Javascript fullstack blog website with node.js in the backend, and react.js on the frontend - [Project Repository](https://github.com/nabil2i/ncblog)
+- **NC Blog:** Javascript fullstack blog website with node.js in the backend, and react.js in the frontend - [Project Repository](https://github.com/nabil2i/ncblog)
 
 - **Issue-Tracker:** Next.js fullstack web application for tracking issues - [Project Repository](https://github.com/nabil2i/issue-tracker). It is deployed at [https://issue-tracker-ten-nu.vercel.app/](https://issue-tracker-ten-nu.vercel.app/)
 
