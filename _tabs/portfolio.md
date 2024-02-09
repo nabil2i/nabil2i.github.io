@@ -4,7 +4,7 @@ icon: fas fa-diagram-project
 order: 2
 ---
 
-- **NC Blog:** MERN fullstack blog website with node.js in the backend connected to a mongodb database, and react.js in the frontend - [Project Repository](https://github.com/nabil2i/ncblog)
+- **NC Blog:** MERN fullstack blog website with node.js in the backend connected to a mongodb database, and react.js in the frontend - [Project Repository](https://github.com/nabil2i/ncblog). [System design document](https://docs.google.com/document/d/1-fEuNqwnWiB2hgJXylv1zFOacpQmkdY3-5EWUqnXWZs/edit?usp=sharing) and [Diagrams](https://drive.google.com/drive/folders/1xZ7fO0GrGR9ScMI6Tszyrl4KYIxNDtKC?usp=sharing)
 The frontend app is accessible at [nabilconveys.vercel.app](https://nabilconveys.vercel.app)
 
 - **Issue-Tracker:** Next.js fullstack web application for tracking issues - [Project Repository](https://github.com/nabil2i/issue-tracker). It is deployed at [https://issue-tracker-ten-nu.vercel.app/](https://issue-tracker-ten-nu.vercel.app/)
