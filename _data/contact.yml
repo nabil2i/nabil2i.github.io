@@ -14,7 +14,7 @@
 #   icon: 'fas fa-envelope'
 #   noblank: true            # open link in current tab
 -
-  type: linkedin
+  type: medium
   icon: 'fab fa-medium'
   url:  'https://medium.com/@nabilwrites'
 -

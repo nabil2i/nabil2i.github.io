@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: 2022-11-27 05:00:00 -500
-categories: [hello, world, github]
+categories: [general]
 tags: [hello,world,github]
 ---
 
